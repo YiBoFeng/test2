@@ -1,0 +1,19 @@
+.main-header {
+  height: 60px;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  background: #fafafa;
+}
+
+.mainContainer {
+  height: calc(100vh - 60px);
+}
+
+.scrollY {
+  overflow-y: auto;
+}
+
+.flex-full-width {
+  flex: 100%
+}
